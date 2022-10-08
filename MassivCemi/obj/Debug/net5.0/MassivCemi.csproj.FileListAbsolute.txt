@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\bin\Debug\net5.0\MassivCemi.exe
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\bin\Debug\net5.0\MassivCemi.deps.json
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\bin\Debug\net5.0\MassivCemi.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\bin\Debug\net5.0\MassivCemi.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\bin\Debug\net5.0\MassivCemi.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\bin\Debug\net5.0\MassivCemi.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\refint\MassivCemi.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\MassivCemi.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivCemi\obj\Debug\net5.0\ref\MassivCemi.dll

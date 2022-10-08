@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\bin\Debug\net5.0\MassivMuqayise.exe
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\bin\Debug\net5.0\MassivMuqayise.deps.json
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\bin\Debug\net5.0\MassivMuqayise.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\bin\Debug\net5.0\MassivMuqayise.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\bin\Debug\net5.0\MassivMuqayise.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\bin\Debug\net5.0\MassivMuqayise.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\refint\MassivMuqayise.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\MassivMuqayise.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivMuqayise\obj\Debug\net5.0\ref\MassivMuqayise.dll

@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\bin\Debug\net5.0\MassivTers.exe
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\bin\Debug\net5.0\MassivTers.deps.json
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\bin\Debug\net5.0\MassivTers.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\bin\Debug\net5.0\MassivTers.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\bin\Debug\net5.0\MassivTers.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\bin\Debug\net5.0\MassivTers.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\refint\MassivTers.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\MassivTers.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivTers\obj\Debug\net5.0\ref\MassivTers.dll

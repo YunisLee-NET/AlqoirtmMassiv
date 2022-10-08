@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\bin\Debug\net5.0\MassivEyniEdedMuqayise.exe
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\bin\Debug\net5.0\MassivEyniEdedMuqayise.deps.json
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\bin\Debug\net5.0\MassivEyniEdedMuqayise.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\bin\Debug\net5.0\MassivEyniEdedMuqayise.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\bin\Debug\net5.0\MassivEyniEdedMuqayise.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\bin\Debug\net5.0\MassivEyniEdedMuqayise.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\refint\MassivEyniEdedMuqayise.dll
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.pdb
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\MassivEyniEdedMuqayise.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\MassivEyniEdedMuqayise\obj\Debug\net5.0\ref\MassivEyniEdedMuqayise.dll

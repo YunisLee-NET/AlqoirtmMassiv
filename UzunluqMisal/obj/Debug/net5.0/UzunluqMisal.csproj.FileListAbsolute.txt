@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\bin\Debug\net5.0\UzunluqMisal.exe
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\bin\Debug\net5.0\UzunluqMisal.deps.json
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\bin\Debug\net5.0\UzunluqMisal.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\bin\Debug\net5.0\UzunluqMisal.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\bin\Debug\net5.0\UzunluqMisal.dll
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\bin\Debug\net5.0\UzunluqMisal.pdb
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.dll
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\refint\UzunluqMisal.dll
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.pdb
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\UzunluqMisal.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\UzunluqMisal\obj\Debug\net5.0\ref\UzunluqMisal.dll

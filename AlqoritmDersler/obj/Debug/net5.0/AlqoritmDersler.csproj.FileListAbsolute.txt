@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\bin\Debug\net5.0\AlqoritmDersler.exe
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\bin\Debug\net5.0\AlqoritmDersler.deps.json
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\bin\Debug\net5.0\AlqoritmDersler.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\bin\Debug\net5.0\AlqoritmDersler.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\bin\Debug\net5.0\AlqoritmDersler.dll
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\bin\Debug\net5.0\AlqoritmDersler.pdb
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.dll
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\refint\AlqoritmDersler.dll
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.pdb
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\AlqoritmDersler.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\AlqoritmDersler\obj\Debug\net5.0\ref\AlqoritmDersler.dll

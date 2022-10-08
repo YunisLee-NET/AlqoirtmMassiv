@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\bin\Debug\net5.0\Massivfaiz.exe
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\bin\Debug\net5.0\Massivfaiz.deps.json
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\bin\Debug\net5.0\Massivfaiz.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\bin\Debug\net5.0\Massivfaiz.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\bin\Debug\net5.0\Massivfaiz.dll
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\bin\Debug\net5.0\Massivfaiz.pdb
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.dll
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\refint\Massivfaiz.dll
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.pdb
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\Massivfaiz.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\Massivfaiz\obj\Debug\net5.0\ref\Massivfaiz.dll

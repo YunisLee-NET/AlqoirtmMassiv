@@ -1,0 +1,16 @@
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\bin\Debug\net5.0\Massiv2qat0.exe
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\bin\Debug\net5.0\Massiv2qat0.deps.json
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\bin\Debug\net5.0\Massiv2qat0.runtimeconfig.json
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\bin\Debug\net5.0\Massiv2qat0.runtimeconfig.dev.json
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\bin\Debug\net5.0\Massiv2qat0.dll
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\bin\Debug\net5.0\Massiv2qat0.pdb
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.csproj.AssemblyReference.cache
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.AssemblyInfoInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.AssemblyInfo.cs
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.dll
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\refint\Massiv2qat0.dll
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.pdb
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\Massiv2qat0.genruntimeconfig.cache
+E:\Dersler\MVC\AlqoritmDersler\Massiv2qat0\obj\Debug\net5.0\ref\Massiv2qat0.dll
